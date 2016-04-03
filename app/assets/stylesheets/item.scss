@@ -161,6 +161,19 @@
           margin: 2px;
         }
       }
+      ul {
+          padding:0;
+          list-style:none;
+          font-size:0;
+          li {
+            display:inline;
+            margin:0 10px 0 0;
+            list-style:none;
+            img {
+              
+            }
+          }
+        }
     }
   }
 }
