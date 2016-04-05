@@ -1,0 +1,2 @@
+class Ranking < Item
+end
